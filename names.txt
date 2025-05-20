@@ -1,0 +1,7 @@
+bhuvanesh
+git
+github
+save
+i --> insert
+q --> record
+:wq --> save and quit
